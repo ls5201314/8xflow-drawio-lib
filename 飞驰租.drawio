@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T02:34:22.992Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="96bKNdPYL00FZhGWdrZd" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T07:40:35.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_M-SKL5pV12kP2RxolBU" version="21.6.6" type="github">
   <diagram name="第 1 页" id="oeCHM0damJKCCX0aJpPC">
-    <mxGraphModel dx="1948" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2323,6 +2323,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1140" as="sourcePoint" />
             <mxPoint x="332.49" y="1174.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCH77kXnYImV4V7iE8xH-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="53" y="776" width="70" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="mCH77kXnYImV4V7iE8xH-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fe7e00;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="mCH77kXnYImV4V7iE8xH-32">
+          <mxGeometry y="12" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mCH77kXnYImV4V7iE8xH-34" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;lt;Domain&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="mCH77kXnYImV4V7iE8xH-32">
+          <mxGeometry x="5" y="1" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCH77kXnYImV4V7iE8xH-35" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;车辆管理&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mCH77kXnYImV4V7iE8xH-32">
+          <mxGeometry x="5" y="22" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mCH77kXnYImV4V7iE8xH-36" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#F954A3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mCH77kXnYImV4V7iE8xH-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="670" as="sourcePoint" />
+            <mxPoint x="95" y="733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
